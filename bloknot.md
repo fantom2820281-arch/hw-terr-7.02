@@ -73,3 +73,5 @@ gh repo create terraform-docker-lab \
 # 6. Проверь, что всё загрузилось
 gh repo view --web
 
+
+

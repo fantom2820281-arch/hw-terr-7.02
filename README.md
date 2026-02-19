@@ -4,7 +4,7 @@
 ---
 
 
-Студент:   ###  Герасин Дмитрий Сергеевич  ###
+Студент:   ***  Герасин Дмитрий Сергеевич  ***
 
     Курс: Netology, CI/CD
     Дата: 19.02.2026
@@ -282,7 +282,7 @@ Plan: 6 to add, 0 to change, 0 to destroy.
 ---
 
 
-[scrin1](hw-terr1.png)   
+![scrin1](hw-terr1.png)   
 
 ---
 
@@ -290,7 +290,7 @@ terraform apply
 
 ---
 
-[scrin2](hw-terr2.png)
+![scrin2](hw-terr2.png)
 
 ---
 
@@ -302,7 +302,7 @@ curl http://localhost:2080    # WordPress
 
 ---
 
-[scrin3](hw-terr3.png)
+![scrin3](hw-terr3.png)
 
 ---
 

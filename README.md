@@ -4,15 +4,15 @@
 ---
 
 
-Студент:   ***  Герасин Дмитрий Сергеевич  ***
-
-    Курс: Netology, CI/CD
-    Дата: 19.02.2026
-
+Студент: **Герасин Дмитрий Сергеевич**  
+Курс: Netology, CI/CD  
+Дата: 15.02.2026
 
 
 
 
+---
+---
 
 
 📜 Информация о проекте
@@ -23,13 +23,7 @@
         hashicorp/random v3.8.1
         hashicorp/local  v2.7.0
 
-        структура проекта   
-
-├── main.tf         
-├── provider.tf      
-├── README.md
-└── variables.tfform.io/*/*"
-
+        
 
 
 
@@ -282,7 +276,7 @@ Plan: 6 to add, 0 to change, 0 to destroy.
 ---
 
 
-![scrin1](hw-terr1.png)   
+![scrin1](img/hw-terr1.png)   
 
 ---
 
@@ -290,7 +284,7 @@ terraform apply
 
 ---
 
-![scrin2](hw-terr2.png)
+![scrin2](img/hw-terr2.png)
 
 ---
 
@@ -302,7 +296,7 @@ curl http://localhost:2080    # WordPress
 
 ---
 
-![scrin3](hw-terr3.png)
+![scrin3](img/hw-terr3.png)
 
 ---
 
